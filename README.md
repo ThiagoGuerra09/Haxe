@@ -15,4 +15,7 @@ você deve ter as devidas extensões e preparação de ambiente em uma dessas li
 
 3-Abra um terminal no Vscode e utilize um terminal que compile Linux (Gosto do PowerShell e do Git Bash)
 
-4-
+![terminal](https://user-images.githubusercontent.com/82849005/162436732-a0b3f392-65a1-4035-b2d1-4cc6417a4390.png)
+
+
+4- 
