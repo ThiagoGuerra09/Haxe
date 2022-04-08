@@ -26,4 +26,17 @@ Aqui crei um arquivo chamado HelloWorld.hx
 
 5- Crie uma classe dentro do arquivo, com o nome do arquivo sem o .hx
 
+![print codigo](https://user-images.githubusercontent.com/82849005/162438713-97f519a7-9cba-4738-8c4a-8c3e8420fde5.png)
+
+Aqui criei uma classe HelloWorld que printa Hello World em Haxe.
+
+6- Agora para compilar esse código em JavaScript ou em Python, digite o seguinte no terminal: 
+
+JavaScript: 
+
+
+Python: 
+
+
+
 
