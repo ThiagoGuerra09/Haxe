@@ -37,8 +37,16 @@ JavaScript:
 ![js](https://user-images.githubusercontent.com/82849005/162439417-d07f228f-7390-4ba0-994d-7cae94e31f5c.png)
 
 
-
 Python: 
+
+![py](https://user-images.githubusercontent.com/82849005/162439430-9618bf3e-cde9-4d81-ac61-95feec8c362b.png)
+
+7- Com isso será criado um arquivo automaticamente na respectiva linguagem que escolheu (JavaScript ou Phyton) que representa o Hello World em Haxe.
+
+Em JavaScript: 
+
+
+Em Phyton:
 
 
 
