@@ -65,6 +65,12 @@ Em JavaScript é um pouco mais complicado, mas vou dar duas opções
  ![node](https://user-images.githubusercontent.com/82849005/162443650-0943d2a3-78aa-49e5-afc6-675ec3eaf183.png)
 
 Segunda opção: Baixe a extensão Live Server no Vscode e crie um arquivo .html para chamar o JavaScript nele.
+
+![image](https://user-images.githubusercontent.com/82849005/162444288-db9c2ba1-d751-48f5-9047-f1f08e756957.png)
+
+Aqui está um exemplo raso de um html chamando o JavaScript
+
+Em seguida clique em Go live( que abre uma porta web graças ao Live Server) 
  
  
 
