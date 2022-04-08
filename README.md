@@ -49,6 +49,10 @@ Em JavaScript:
 
 Em Phyton:
 
+![py hx](https://user-images.githubusercontent.com/82849005/162440553-de77d5f3-18bd-4c15-9921-3b5a68652061.png)
 
 
+8- Agora para obter o resultado no terminal.
+
+Em phyton digite python HelloWorld.py no terminal
 
