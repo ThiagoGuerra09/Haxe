@@ -56,3 +56,11 @@ Em Phyton:
 
 Em phyton digite python HelloWorld.py no terminal
 
+![resultadopy](https://user-images.githubusercontent.com/82849005/162442025-e8d31a94-ddfa-4712-959c-5962a4a2341b.png)
+
+Em JavaScript é um pouco mais complicado, mas vou dar duas opções
+
+ Primeira opção: Baixar o Node.js (existem muitos videos na internet ensinando isso de forma fácil) e após a instalação digite Node HelloWorld.js
+ 
+ 
+
