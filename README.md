@@ -11,6 +11,8 @@ você deve ter as devidas extensões e preparação de ambiente em uma dessas li
 
 2-Então vamos lá, baixe a extensão Haxe no Vscode. (Recomendo também baixar a extensão Haxe Checkstyle que ajuda na identicação de alguns erros, porém não é obrigatória)
 
+![extensões](https://user-images.githubusercontent.com/82849005/162436184-2b99518d-7c25-4c18-9a44-9374c7b03e4f.png)
+
 3-Abra um terminal no Vscode e utilize um terminal que compile Linux (Gosto do PowerShell e do Git Bash)
 
 4-
