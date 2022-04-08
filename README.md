@@ -62,5 +62,9 @@ Em JavaScript é um pouco mais complicado, mas vou dar duas opções
 
  Primeira opção: Baixar o Node.js (existem muitos videos na internet ensinando isso de forma fácil) e após a instalação digite Node HelloWorld.js
  
+ ![node](https://user-images.githubusercontent.com/82849005/162443650-0943d2a3-78aa-49e5-afc6-675ec3eaf183.png)
+
+Segunda opção: Baixe a extensão Live Server no Vscode e crie um arquivo .html para chamar o JavaScript nele.
+ 
  
 
