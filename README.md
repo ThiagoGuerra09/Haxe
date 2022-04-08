@@ -4,7 +4,7 @@ Guia de como instalar/compilar Linguagem Haxe no Vs Code.
 Haxe por ser uma linguagem recente em computação, apresenta pouco conteúdo e explicações na internet em geral, e o conteudo encontrado é somente em inglês e mesmo assim muito mal 
 explicado e raso.
 
-Antes de tudo baixe o executavel de Haxe no seu PC. Segue o Link <a
+Antes de tudo baixe o executavel de Haxe no seu PC. Segue o <a href =https://haxe.org/download/ target="_blank">link.</a>
 
 Então para facilitar, aqui vai um guia de instalação no Visual Studio Code em Português.
 
@@ -81,7 +81,14 @@ Irá abir uma porta local no navegador, clique com o botão direito do mouse, cl
 ![console](https://user-images.githubusercontent.com/82849005/162445863-e09cf12a-9d9f-4629-b109-cefd2a9bb166.png)
 
 
+Pronto, você aprendeu e preparou seu ambiente para Haxe no Vs code!
+
+Deixarei alguns códigos aqui no diretório do Git Hub para caso queiram treinar ou pegar de exemplo :)
+
+Boa programação!
 
 
+Referências:
+https://www.jeremymorgan.com/blog/programming/getting-started-haxe/?fbclid=IwAR3hAlm2I1RFD3jlkRMDiEnEAOVqOHve0J-p8QJl9OH0TrGAWKaSylqcbOc
  
 
