@@ -90,5 +90,13 @@ Boa programação!
 
 Referências:
 https://www.jeremymorgan.com/blog/programming/getting-started-haxe/?fbclid=IwAR3hAlm2I1RFD3jlkRMDiEnEAOVqOHve0J-p8QJl9OH0TrGAWKaSylqcbOc
+
+<div>
+<img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
+<img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haxe/haxe-original.svg" / height="40" width="35">
+
+          
  
+ </div>
 
