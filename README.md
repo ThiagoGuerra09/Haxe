@@ -70,7 +70,10 @@ Segunda opção: Baixe a extensão Live Server no Vscode e crie um arquivo .html
 
 Aqui está um exemplo raso de um html chamando o JavaScript
 
-Em seguida clique em Go live( que abre uma porta web graças ao Live Server) 
+Em seguida clique em Go live( que abre uma porta local graças ao Live Server) 
  
+ ![golive](https://user-images.githubusercontent.com/82849005/162445245-c9e550fe-8d76-473c-a47c-451c7836481b.png)
+
+Irá abir uma porta local no navegador, clique com o botão direito do mouse, clique em inspencionar, vá em console e lá estará o resultado do seu código Haxe, executado em JavaScript
  
 
