@@ -45,6 +45,7 @@ Python:
 
 Em JavaScript: 
 
+![js hx](https://user-images.githubusercontent.com/82849005/162440539-9b941499-1549-4199-9130-b9da339e3e4e.png)
 
 Em Phyton:
 
