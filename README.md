@@ -20,4 +20,10 @@ você deve ter as devidas extensões e preparação de ambiente em uma dessas li
 
 4- Crie um arquivo, dê um nome e no final coloque .hx
 
+![Arquivo](https://user-images.githubusercontent.com/82849005/162437693-ea73551b-3154-433b-a0f9-053317eab9d6.png)
+
+Aqui crei um arquivo chamado HelloWorld.hx
+
+5- Crie uma classe dentro do arquivo, com o nome do arquivo sem o .hx
+
 
