@@ -18,4 +18,6 @@ você deve ter as devidas extensões e preparação de ambiente em uma dessas li
 ![terminal](https://user-images.githubusercontent.com/82849005/162436732-a0b3f392-65a1-4035-b2d1-4cc6417a4390.png)
 
 
-4- 
+4- Crie um arquivo, dê um nome e no final coloque .hx
+
+
