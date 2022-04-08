@@ -34,6 +34,9 @@ Aqui criei uma classe HelloWorld que printa Hello World em Haxe.
 
 JavaScript: 
 
+![js](https://user-images.githubusercontent.com/82849005/162439417-d07f228f-7390-4ba0-994d-7cae94e31f5c.png)
+
+
 
 Python: 
 
