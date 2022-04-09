@@ -8,7 +8,7 @@ Antes de tudo baixe o executavel de Haxe no seu PC. Segue o <a href =https://hax
 
 Então para facilitar, aqui vai um guia de instalação no Visual Studio Code em Português.
 
-1-Tenha em mente que Haxe é compilado por outras linguagens, e as duas que vou ensinar no guia são JavaScript e Phyton, logo na linguagem que você deseja que Haxe seja compilada, 
+1-Tenha em mente que Haxe é compilado por outras linguagens, e as duas que vou ensinar no guia são JavaScript e Python, logo na linguagem que você deseja que Haxe seja compilada, 
 você deve ter as devidas extensões e preparação de ambiente em uma dessas linguagens para avançar nos proximos passos.
 
 2-Então vamos lá, baixe a extensão Haxe no Vscode. (Recomendo também baixar a extensão Haxe Checkstyle que ajuda na identicação de alguns erros, porém não é obrigatória)
