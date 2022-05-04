@@ -1,7 +1,5 @@
 import sys
 
-
-
 class HelloWorld:
     __slots__ = ()
 
